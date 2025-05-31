@@ -2,7 +2,7 @@
 
 Este é um jogo estilo *platformer* criado com **PgZero**.
 
-![Tela inicial do jogo](images/inicio.png)
+![Tela inicial do jogo](images/menuinicial.png)
 
 O Jogo possui *3 fases*, para ganhar cada fase, é preciso pular encima do inimigo e matar todos.
 
