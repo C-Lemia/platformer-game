@@ -21,6 +21,8 @@ Como jogar:
 botão direcionais do teclado : movimenta o heroi.
 botão espaço do teclado: pula.
 
+![Jogo](images/jogo.png)
+
 ## ▶️ Como rodar o jogo
 
 1. Instale o PgZero:
