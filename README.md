@@ -28,5 +28,5 @@ botão espaço do teclado: pula.
 1. Instale o PgZero:
    ```bash
    1.1 pip install pgzero
-   1.2 pgzrun main.py
+   1.2 pgzrun main.py - rode o jogo!
 
