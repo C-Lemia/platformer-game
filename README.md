@@ -1,4 +1,4 @@
-# 🕹️ Platformer Game - Teste para Tutores
+# 🕹️ Platformer Game
 
 Este é um jogo estilo *platformer* criado com **PgZero**.
 
